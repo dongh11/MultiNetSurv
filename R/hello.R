@@ -17,4 +17,4 @@ hello <- function() {
   print("Hello, world!")
 }
 
-# Try to modify and commit to my own Github account
+# Try to modify and commit to my own Github
